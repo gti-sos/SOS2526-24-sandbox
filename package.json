@@ -1,0 +1,25 @@
+{
+  "name": "paqueteisaac",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/gti-sos/SOS2526-24-sandbox#readme",
+  "bugs": {
+    "url": "https://github.com/gti-sos/SOS2526-24-sandbox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gti-sos/SOS2526-24-sandbox.git"
+  },
+  "license": "ISC",
+  "author": "IsaacRg25",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^5.2.1"
+  }
+}
